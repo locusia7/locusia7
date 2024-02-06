@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @locusia7
-- 👀 I’m interested in learning better
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+usr/bin/rip3r
 
 <!---
 locusia7/locusia7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
